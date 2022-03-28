@@ -11,7 +11,7 @@ Prerequisite
 
 Steps for execution
 ===================
-1. git clone the project or open the project folder
+1. git clone the project - https://neethupaul104.github.io/ECom_Automation/
 2. Open New Terminal
 3. Run - > npm run test:WithConfig
 4. Open -> .\Reports\HTMLReports\htmlReport.html file 
